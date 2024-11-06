@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../multiply-counter"
+		},
+		{
+			"path": "../sum-counter"
+		}
+	]
+}
